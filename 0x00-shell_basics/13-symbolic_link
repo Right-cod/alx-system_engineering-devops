@@ -1,2 +1,2 @@
 #!/bib/bash
-ls -s /bin/ls _ls_
+ls -s /bin/ls __ls__
